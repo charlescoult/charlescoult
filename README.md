@@ -2,6 +2,7 @@
 Good morning Mr. Magpie, how are we today?
 
 ## Bio
+I make no claim to a reputation, señor, and no one has to talk for me.
 - Geek extaordinare
     - Software
         - Java & Android
