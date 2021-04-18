@@ -22,7 +22,7 @@ Good morning Mr. Magpie, how are we today?
     - I need to run more often
 
 ## Contact
-- [charlescoult.com](www.charlescoult.com)
+- [charlescoult.com](https://www.charlescoult.com)
 - [LinkedIn](https://www.linkedin.com/in/charlescoult/)
 
 I :black_heart: Markdown.
