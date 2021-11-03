@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
-<h3 align="center">I am a budding Full Stack Developer with a strong will to make the world a better place through improving UI/UX.</h3>
-Good morning Mr. Magpie, how are we today?
+<h3 align="center">I am a developing Full Stack Developer with a strong will to make the world a better place through software.</h3>
 
 ## Bio
-"I make no claim to a reputation, señor, and no one has to talk for me."
+> I make no claim to a reputation, señor, and no one has to talk for me.
+
+### Tools I Know and Love
+<a href="https://developer.android.com" target="_blank" tooltip='Android' > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+
+### Contact Me
+<a href="https://twitter.com/charlescoult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlescoult" height="30" width="40" /></a>
+
 - Geek
     - Software
         - Java & Android
@@ -45,14 +51,9 @@ I :black_heart: Markdown.
 
 - 📫 How to reach me **charlescoult.per@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/charlescoult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlescoult" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
