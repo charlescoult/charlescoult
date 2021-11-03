@@ -24,9 +24,6 @@
     - Fishing is my favorite past-time
         - Trout, ocean kayak/shore fishing
     - Love experiencing and capturing the beauty of the natural world
-- Health
-    - Particularly mental health but that is closely interrelated with physical health, so that too.
-    - I need to run more often
 
 ## Contact
 - [charlescoult.com](https://www.charlescoult.com)
