@@ -9,23 +9,6 @@
 
 ### Contact Me
 <a href="https://twitter.com/charlescoult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlescoult" height="30" width="40" /></a>
-
-- Geek
-    - Software
-        - Java & Android
-        - C and Linux
-        - Javascript & NodeJS
-- Music
-    - Post-hardcore, post-punk and post-rock
-    - Folk, indie-folk
-    - Experimental-rock, psychedelic-rock and ambient
-    - Classical, Beethoven especially
-- Outdoors
-    - Fishing is my favorite past-time
-        - Trout, ocean kayak/shore fishing
-    - Love experiencing and capturing the beauty of the natural world
-
-## Contact
 - [charlescoult.com](https://www.charlescoult.com)
 - [LinkedIn](https://www.linkedin.com/in/charlescoult/)
 
