@@ -4,7 +4,7 @@
 ## Technical Bio
 > I make no claim to a reputation, señor, and no one has to talk for me.
 
-(My website)[charlescoult.com] utilizes the NodeJS runtime, ExpressJS, 
+[My website](charlescoult.com) utilizes the NodeJS runtime, ExpressJS, 
 
 ### Tools I Know and Love
 * |android|
