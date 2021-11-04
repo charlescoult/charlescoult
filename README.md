@@ -56,3 +56,6 @@ I :black_heart: Markdown.
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+## Personal Bio
+* I grew up hiking, fishing and backpacking with my family in the Sierra Nevadas in CA, the Beartooths in MT and other surrounding areas.
+* I also enjoy fishing for surf perch, stripers, cabezon, ling cod and other rock fish along the beaches and reefs where I live.
