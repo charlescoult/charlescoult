@@ -27,7 +27,7 @@ I :black_heart: Markdown.
 
 - 🔭 I’m currently working on [my portfolio website](charlescoult.com)
 
-- 🌱 I’m currently learning **NodeJS, ReactJS and using those**
+- 🌱 I’m currently learning **NodeJS, ReactJS and using those to build (my portfolio website)[charlescoult.com]**
 
 - 👨‍💻 All of my projects are available at [charlescoult.com](charlescoult.com)
 
