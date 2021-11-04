@@ -1,29 +1,18 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
 <h3 align="center">I am a developing Full Stack Developer with a strong will to make the world a better place through software.</h3>
 
+*My website and this self-introduction is currently a work-in-progress.*
+
 ## Technical Bio
 > I make no claim to a reputation, señor, and no one has to talk for me.
 
-[My website](charlescoult.com) utilizes the NodeJS runtime, ExpressJS, 
-
-### Tools I Know and Love
-* |android|
-* Android
-<a href="https://developer.android.com" target="_blank" tooltip='Android' > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+[My website](charlescoult.com) utilizes the NodeJS runtime, ExpressJS, ReactJS and other various libraries from npm.
 
 ### Contact Me
-<a href="https://twitter.com/charlescoult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlescoult" height="30" width="40" /></a>
 - [charlescoult.com](https://www.charlescoult.com)
 - [LinkedIn](https://www.linkedin.com/in/charlescoult/)
 
 I :black_heart: Markdown.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlescoult&label=Profile%20views&color=0e75b6&style=flat" alt="charlescoult" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlescoult" alt="charlescoult" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/charlescoult" target="blank"><img src="https://img.shields.io/twitter/follow/charlescoult?logo=twitter&style=for-the-badge" alt="charlescoult" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio website](charlescoult.com)
 
@@ -31,7 +20,7 @@ I :black_heart: Markdown.
 
 - 👨‍💻 All of my projects are available at [charlescoult.com](charlescoult.com)
 
-- 💬 Ask me about **NodeJS, ReactJS, AI,**
+- 💬 Ask me about **NodeJS, ReactJS and AI**
 
 - 📫 How to reach me **charlescoult.per@gmail.com**
 
