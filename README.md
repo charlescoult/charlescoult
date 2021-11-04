@@ -3,7 +3,7 @@
 
 *My website and this self-introduction are currently a work-in-progress.*
 
-**My resume needs to be updated but please check out my [LinkdIn](https://www.linkedin.com/in/charlescoult) for my work experience.**
+**My resume needs to be updated but please check out my [LinkedIn](https://www.linkedin.com/in/charlescoult) for my work experience.**
 
 ## Technical Bio
 > I make no claim to a reputation, señor, and no one has to talk for me.
