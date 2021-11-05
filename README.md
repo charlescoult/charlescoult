@@ -18,6 +18,7 @@
 * **i3** is my Window Manager/Desktop Environment of choice. It is simple and leaves no space unused.
 * **Vim** is my text editor/IDE of choice. I don't typically use a full-fleged IDE as I find most of the functions redundant and unnecessary. There are a few features of traditional IDE's that are available in VIM through plugins but I haven't spent the time to look into and install them. Though I'm proficient in VIM, there is still a lot of functionality there that I have yet to explore.
     * I have set up **i3** and **Google Chrome** to use VIM-based shortcuts, reducing the need to reach for the mouse which tends to be slower than using hot-keys.
+    * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately).
 
 ## Contact Me
 - [charlescoult.com](https://www.charlescoult.com)
