@@ -77,4 +77,5 @@ I :black_heart: Markdown.
 
 ## Personal Bio
 * I grew up hiking, fishing and backpacking with my family in the Sierra Nevadas in CA, the Beartooths in MT and other surrounding areas.
-* I also enjoy fishing for surf perch, stripers, cabezon, ling cod and other rock fish along the beaches and reefs where I live.
+* I enjoy fishing for surf perch, stripers, cabezon, ling cod and other rock fish along the beaches and reefs where I live.
+* When I can, I go bouldering at The Pad in SLO to stay in shape and challenge myself.
