@@ -42,8 +42,6 @@ I :black_heart: Markdown.
 
 - 💬 Ask me about **NodeJS, ReactJS and AI**
 
-- 📫 How to reach me **charlescoult.per@gmail.com**
-
 ## Languages and Tools
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
