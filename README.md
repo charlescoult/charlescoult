@@ -22,12 +22,6 @@
     * I have set up **i3** and **Google Chrome** to use VIM-based shortcuts, reducing the need to reach for the mouse which tends to be slower than using hot-keys.
     * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately).
 
-## Coding Style/Philosophy
-* Keep things *simple*, *clear*, *consistent* and in accordance with a *convention*.
-    * I don't use ';'s in JS unless absolutely necessary ( hardly ever )
-    * I use spaces liberally in order to make function arguments and boolean expressions clear and more easy to read. While they aren't *functionally* necessary to the compiler, they serve a function to the code reader.
-    * Opening brackets, parenthesis and quotes that fall on the same line have their matching closing brackets, parenthesis and quotes on the same line.
-
 ## Contact Me
 - [charlescoult.com](https://www.charlescoult.com)
 - [LinkedIn](https://www.linkedin.com/in/charlescoult/)
