@@ -23,7 +23,7 @@
     * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately).
 
 ## Contact Me
-- [charlescoult.com](https://www.charlescoult.com)
+- [charlescoult.com/contact](https://www.charlescoult.com/contact)
 - [LinkedIn](https://www.linkedin.com/in/charlescoult/)
 
 I :black_heart: Markdown.
