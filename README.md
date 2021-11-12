@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
 <h3 align="center">I am a developing Full Stack Developer with a strong will to make the world a better place through software.</h3>
 
-*My website and this self-introduction are currently a work-in-progress.*
+*My website and this self-introduction are a work-in-progress.*
 
-**My resume needs to be updated but please check out my [LinkedIn](https://www.linkedin.com/in/charlescoult) for my work experience.**
+**View my [resume on my website](https://charlescoult.com/resume).**
+
+**Contact me via the [contact form](https://charlescoult/contact) on my website and via my [LinkedIn](https://www.linkedin.com/in/charlescoult).**
 
 ## About [My Website](https://charlescoult.com)
 * It is hosted using Amazon Web Services (**AWS**) and utilizes the free tiers of the services used.
@@ -21,10 +23,6 @@
     * I don't typically use a full-fleged IDE as I find most of the functions redundant and unnecessary. There are a few features of traditional IDE's that are available in VIM through plugins but I haven't spent the time to look into and install them. Though I'm proficient in VIM, there is still a lot of functionality there that I have yet to explore.
     * I have set up **i3** and **Google Chrome** to use VIM-based shortcuts, reducing the need to reach for the mouse which tends to be slower than using hot-keys.
     * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately).
-
-## Contact Me
-- [charlescoult.com/contact](https://www.charlescoult.com/contact)
-- [LinkedIn](https://www.linkedin.com/in/charlescoult/)
 
 I :black_heart: Markdown.
 
