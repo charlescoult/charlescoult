@@ -5,7 +5,7 @@
 
 **View my [resume on my website](https://charlescoult.com/resume).**
 
-**Contact me via the [contact form](https://charlescoult/contact) on my website and via my [LinkedIn](https://www.linkedin.com/in/charlescoult).**
+**Contact me via the [contact form](https://charlescoult.com/contact) on my website and via my [LinkedIn](https://www.linkedin.com/in/charlescoult).**
 
 ## About [My Website](https://charlescoult.com)
 * It is hosted using Amazon Web Services (**AWS**) and utilizes the free tiers of the services used.
