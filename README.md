@@ -7,6 +7,12 @@
 
 **Contact me via the [contact form](https://charlescoult.com/contact) on my website and via my [LinkedIn](https://www.linkedin.com/in/charlescoult).**
 
+I :black_heart: Markdown.
+- 🔭 I’m currently working on [my portfolio website](https://charlescoult.com)
+- 🌱 I’m currently learning **NodeJS, ReactJS and using those to build [my portfolio website](https://charlescoult.com)**
+- 👨‍💻 All of my projects are available at [charlescoult.com](https://charlescoult.com)
+- 💬 Ask me about **NodeJS, ReactJS and AI**
+
 ## About [My Website](https://charlescoult.com)
 * It is hosted using Amazon Web Services (**AWS**) and utilizes the free tiers of the services used.
   * It is fast, feature-rich and scalable. [Follow this link to see how it is set up.](https://charlescoult.com/sites/meta)
@@ -22,17 +28,7 @@
 * Text Editor/IDE: **Vim**
     * I don't typically use a full-fleged IDE as I find most of the functions redundant and unnecessary. There are a few features of traditional IDE's that are available in VIM through plugins but I haven't spent the time to look into and install them. Though I'm proficient in VIM, there is still a lot of functionality there that I have yet to explore.
     * I have set up **i3** and **Google Chrome** to use VIM-based shortcuts, reducing the need to reach for the mouse which tends to be slower than using hot-keys.
-    * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately).
-
-I :black_heart: Markdown.
-
-- 🔭 I’m currently working on [my portfolio website](https://charlescoult.com)
-
-- 🌱 I’m currently learning **NodeJS, ReactJS and using those to build [my portfolio website](https://charlescoult.com)**
-
-- 👨‍💻 All of my projects are available at [charlescoult.com](https://charlescoult.com)
-
-- 💬 Ask me about **NodeJS, ReactJS and AI**
+    * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately) and am familiar with other IDE's such as Visual Studio Code, NetBeans and Eclipse.
 
 ## Languages and Tools
 <p align="left">
