@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
-<h3 align="center">I am a developing Full Stack Developer with a strong will to make the world a better place through software.</h3>
+<h3 align="center">I am a Full Stack Developer with a strong will to make the world a better place through software.</h3>
 
 *My website and this self-introduction are a work-in-progress.*
 
