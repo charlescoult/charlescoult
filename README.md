@@ -31,6 +31,25 @@ I :black_heart: Markdown.
     * I will use **Android Studio** for Android App development (though I haven't done a whole lot lately) and am familiar with other IDE's such as Visual Studio Code, NetBeans and Eclipse.
 
 ## Languages and Tools
+* Languages:
+  * Java, C, Python, JS (ES6), VBA, BASH
+* Web Hosting and Services
+  * AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, IAM, RDS, SES
+* Development Environment
+  * Arch Linux OS, i3 Window Manager, VIM, Google Chrome + Developer Tools, Android Studio
+* Graphics & Modeling
+  * Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
+* Git, Gitflow & Github
+* NodeJS
+  * Frontend: axios, lodash, marked, sass
+    * Design Frameworks: Bootstrap via react-bootstrap, Material UI via @mui/material
+  * Backend: express, cors, dotenv, graphql, jsonwebtoken, objection, knex
+* CI/CD: Teamcity & shell scripts
+* Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite
+* Documents
+  * Google Docs, Markdown, PandaDoc
+
+
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
