@@ -23,19 +23,19 @@ I :black_heart: Markdown.
 ## Languages and Tools
 * Languages:
   * Java, C, Python, JS (ES6), VBA, BASH
-* Web Hosting and Services
-  * AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, IAM, RDS, SES
 * Development Environment
   * Arch Linux OS, i3 Window Manager, VIM, Google Chrome + Developer Tools, Android Studio
-* Graphics & Modeling
-  * Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
 * Git, Gitflow & Github
+* Web Hosting and Services
+  * AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, IAM, RDS, SES
 * NodeJS
   * Frontend: axios, lodash, marked, sass
     * Design Frameworks: Bootstrap via react-bootstrap, Material UI via @mui/material
   * Backend: express, cors, dotenv, graphql, jsonwebtoken, objection, knex
 * CI/CD: Teamcity & shell scripts
 * Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite
+* Graphics & Modeling
+  * Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
 * Documents
   * Google Docs, Markdown, PandaDoc
 
