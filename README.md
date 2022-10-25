@@ -12,8 +12,7 @@ Learn about how I set up my website using AWS and React [here](https://charlesco
   * Java, C, Python, JS, VBA, BASH
 * I am a big fan of Arch Linux and Vi key bindings
 * I have extensive experience using Git, GitHub and the Gitflow branching strategy
-* Cloud
-  * AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, IAM, RDS, SES
+* Cloud: AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, RDS, SES
 * Frameworks and Runtimes: NodeJS, React, Express, Material UI (@mui/material)
 * Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite
 * Graphics & 3D Modeling
@@ -52,4 +51,4 @@ Learn about how I set up my website using AWS and React [here](https://charlesco
 ## Personal Bio
 * I grew up hiking, fishing and backpacking with my family in the Sierra Nevadas in CA, the Beartooths in MT and other surrounding areas.
 * I enjoy fishing for surf perch, stripers, cabezon, ling cod and other rock fish along the beaches and reefs where I live.
-* When I can, I go bouldering at The Pad in SLO to stay in shape and challenge myself.
+* When I can, I go bouldering at my local climbing gym to stay in shape and challenge myself.
