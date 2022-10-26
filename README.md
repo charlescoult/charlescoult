@@ -8,15 +8,13 @@
 Learn about how I set up my website using AWS and React [here](https://charlescoult.com/sites/meta)
 
 ## Languages and Tools
-* Languages:
-  * Java, C, Python, JS, VBA, BASH
+* Languages: Java, C, Python, JS
 * I am a big fan of Arch Linux and Vi key bindings
 * I have extensive experience using Git, GitHub and the Gitflow branching strategy
 * Cloud: AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, RDS, SES
 * Frameworks and Runtimes: NodeJS, React, Express, Material UI (@mui/material)
 * Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite
-* Graphics & 3D Modeling
-  * Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
+* Graphics & 3D Modeling: Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
 
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
