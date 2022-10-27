@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
 <h3 align="center">I am a prospective Software Developer or Data Engineer currently finishing a Machine Learning Engineering Bootcamp through UCSD Extended Education</h3>
 
-**View my [resume here](https://charlescoult.com/resume).**
+<span align="center">**View my [resume here](https://charlescoult.com/resume).**
 
 **Contact me via my [contact page](https://charlescoult.com/contact) or via [LinkedIn](https://www.linkedin.com/in/charlescoult).**
 
-[Learn about how my website is setup using AWS and React](https://charlescoult.com/sites/meta)
+**[Learn about how my website is setup using AWS and React](https://charlescoult.com/sites/meta)**
+</span>
 
 ## Languages and Tools
 * Languages: Java, C, Python, JS
