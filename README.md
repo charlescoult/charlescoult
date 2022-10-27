@@ -5,7 +5,7 @@
 
 **Contact me via my [contact page](https://charlescoult.com/contact) or via [LinkedIn](https://www.linkedin.com/in/charlescoult).**
 
-Learn about how I set up my website using AWS and React [here](https://charlescoult.com/sites/meta)
+[Learn about how my website is setup using AWS and React](https://charlescoult.com/sites/meta)
 
 ## Languages and Tools
 * Languages: Java, C, Python, JS
