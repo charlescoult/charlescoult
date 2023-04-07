@@ -1,0 +1,97 @@
+{
+   "heading": "**Charles Coulter**",
+   "details": [
+      "Located in *Paso Robles, CA*",
+      "Please use the [contact](/contact) form to reach me."
+   ],
+   "content": [
+      {
+         "heading": "**Education**",
+         "content": [
+            {
+               "heading": "**SLO Partners: Precision Manufacturing Apprenticeship** (*Cuesta College, San Luis Obispo, CA*)",
+               "content": [
+                  {
+                     "heading": "*July 2019 - Aug. 2019*",
+                     "details": [
+                        "Blueprint reading · precision measuring tools · CNC · 3D printing · CAD & CAM Software · Full lifecycle of production and assembly of a precision manufacturing project"
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**California Polytechnic State University** (*San Luis Obispo, CA*)",
+               "details": [
+                  "Candidate for **Bachelors of Science in Computer Engineering** (senior status, no degree)"
+               ],
+               "content": [
+                  {
+                     "heading": "*Winter 2015 - Spring 2016* (part-time)",
+                     "details": [
+                        "* CPE 301: Personal Software Process",
+                        "* CPE 357: Systems Programming"
+                     ]
+                  },
+                  {
+                     "heading": "*Fall 2007 - Winter 2010* (full-time)",
+                     "details": [
+                        "* CPE 349: Design and Analysis of Algorithms",
+                        "* CPE 315: Computer Architecture"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "heading": "**Experience**",
+         "content": [
+            {
+               "heading": "**Eagle Medical** (*Paso Robles, CA*)",
+               "content": [
+                  {
+                     "heading": "**Engineering Technician I**",
+                     "details": [
+                        "*Feb. 2020 - Sep. 2021*\n              \n- Under minimal supervision, performed routine sterilizer maintenance including: electro-mechanical trouble-shooting, component/sub-assembly rebuild or refurbishment, preventative maintenance and complete sterilizer overhaul.\n              \n- Designed and performed unique experiments as requested, evaluating and confirming test data accuracy and generating formal verbal and/or written reports\n              \n- Wrote scripts in python aiding in data collection and analysis\n              \n- Learned NodeJS, Express and React to implement a [new website](/sites/em) for the company."
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**Ranch WiFi** (*Paso Robles, CA*)",
+               "content": [
+                  {
+                     "heading": "**Tech Support and IT**",
+                     "details": [
+                        "*Dec. 2019 - Jan. 2020* - Answered tech support calls and set up an internal company MediaWiki server as a central repository of company procedures and information. Also, I explored the various API's of the software that Ranch WiFi uses to find ways of programmatically improving processes, reports and infrastructure."
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**El Colibri Hotel and Spa** - Pacifica Hotels (*Cambria, CA*)",
+               "content": [
+                  {
+                     "heading": "**Guest Services Supervisor**",
+                     "details": [
+                        "*Apr. 2018 - Oct. 2019* - Addressed guest and employee concerns, inventory, staff scheduling, managed software for the hotel (Skywire PMS, Mindbody)."
+                     ]
+                  },
+                  {
+                     "heading": "**Guest Services Agent**",
+                     "details": [
+                        "*Oct. 2017 - Apr. 2018* - Operated the front desk and bar area as well as coordinated with housekeeping staff to ensure rooms are ready for incoming guests."
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "heading": "**Avocations**",
+         "details": [
+            "Avid fisherman, bouldering, guitar, origami, woodworking, tinkering, learning to dive and spearfish. See the [Avocations](/avocations) page for more information."
+         ]
+      }
+   ]
+}
