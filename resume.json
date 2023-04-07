@@ -2,12 +2,23 @@
    "heading": "**Charles Coulter**",
    "details": [
       "Located in *Paso Robles, CA*",
-      "Please use the [contact](/contact) form to reach me."
+      "[Reach out to me here](/contact)"
    ],
    "content": [
       {
          "heading": "**Education**",
          "content": [
+            {
+               "heading": "**UCSD Extended Studies: Machine Learning Engineering Bootcamp**",
+               "content": [
+                  {
+                     "heading": "*Feb. 2022 - Dec. 2022* (expected)",
+                     "details": [
+                        "Foundations of machine learning and deep learning and how to implement them at scale"
+                     ]
+                  }
+               ]
+            },
             {
                "heading": "**SLO Partners: Precision Manufacturing Apprenticeship** (*Cuesta College, San Luis Obispo, CA*)",
                "content": [
@@ -47,12 +58,23 @@
          "heading": "**Experience**",
          "content": [
             {
+               "heading": "**Ultrex (Flex TG)** (*San Luis Obispo, CA*)",
+               "content": [
+                  {
+                     "heading": "**Service Technician**",
+                     "details": [
+                        "*Oct. 2021 - Present* - Maintenance, troubleshooting and repair of multifunction printers (MFPs/copiers)"
+                     ]
+                  }
+               ]
+            },
+            {
                "heading": "**Eagle Medical** (*Paso Robles, CA*)",
                "content": [
                   {
                      "heading": "**Engineering Technician I**",
                      "details": [
-                        "*Feb. 2020 - Sep. 2021*\n              \n- Under minimal supervision, performed routine sterilizer maintenance including: electro-mechanical trouble-shooting, component/sub-assembly rebuild or refurbishment, preventative maintenance and complete sterilizer overhaul.\n              \n- Designed and performed unique experiments as requested, evaluating and confirming test data accuracy and generating formal verbal and/or written reports\n              \n- Wrote scripts in python aiding in data collection and analysis\n              \n- Learned NodeJS, Express and React to implement a [new website](/sites/em) for the company."
+                        "*Feb. 2020 - Sep. 2021* - Under minimal supervision, performed routine sterilizer maintenance including: electro-mechanical trouble-shooting, component/sub-assembly rebuild or refurbishment, preventative maintenance and complete sterilizer overhaul. Additionally, designed and performed unique experiments as requested, evaluating and confirming test data accuracy and generating formal verbal and/or written reports. Also wrote scripts aiding in data collection and analysis and learned web app development to implement a [new website](/sites/em) for the company."
                      ]
                   }
                ]
@@ -90,7 +112,7 @@
       {
          "heading": "**Avocations**",
          "details": [
-            "Avid fisherman, bouldering, guitar, origami, woodworking, tinkering, learning to dive and spearfish. See the [Avocations](/avocations) page for more information."
+            "Avid fisherman, bouldering, guitar, origami, woodworking, tinkering, learning to dive and spearfish. See the [Avocations](/avocations) page for more detailed information."
          ]
       }
    ]
