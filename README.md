@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
-<h3 align="center">I am a prospective Software Developer or Data Engineer currently finishing a Machine Learning Engineering Bootcamp through UCSD Extended Education</h3>
+<h3 align="center">I am a prospective Software Developer or Data Engineer with experience in web application development, data analysis and machine learning.</h3>
 
 **<p align="center">View my [resume here](https://charlescoult.com/resume).</p>**
+
+**<p align="center">Check out my Machine Learning Engineering Bootcamp capstone project at [ml.charlescoult.com](https://ml.charlescoult.com)**
 
 **<p align="center">Contact me via my [contact page](https://charlescoult.com/contact) or via [LinkedIn](https://www.linkedin.com/in/charlescoult).</p>**
 
