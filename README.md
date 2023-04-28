@@ -15,7 +15,7 @@
 * I have extensive experience using Git, GitHub and the Gitflow branching strategy
 * Cloud: AWS: Route 53, CloudFront, EC2, S3, Certificate Manager, RDS, SES
 * Frameworks and Runtimes: NodeJS, React, Express, Material UI (@mui/material)
-* Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite
+* Database: AWS RDS, MySQL, MongoDB, MS Access, SQLite, HDFS
 * Graphics & 3D Modeling: Inkscape, Imagemagick, Blender, Fusion 360, Sketchup
 
 <p align="center">
