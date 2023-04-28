@@ -6,6 +6,61 @@
    ],
    "content": [
       {
+         "heading": "**Experience**",
+         "content": [
+            {
+               "heading": "**Ultrex (Flex TG)** (*San Luis Obispo, CA*)",
+               "content": [
+                  {
+                     "heading": "**Copier Service Technician**",
+                     "details": [
+                        "*Oct. 2021 - Present* - Maintenance, troubleshooting and repair of copiers (Konica Minolta, Sharp, Canon, etc.)"
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**Eagle Medical** (*Paso Robles, CA*)",
+               "content": [
+                  {
+                     "heading": "**Engineering Technician I**",
+                     "details": [
+                        "*Feb. 2020 - Sep. 2021* - Under minimal supervision, performed routine sterilizer maintenance including: electro-mechanical trouble-shooting, component/sub-assembly rebuild or refurbishment, preventative maintenance and complete sterilizer overhaul. Additionally, designed and performed unique experiments as requested, evaluating and confirming test data accuracy and generating formal verbal and/or written reports. Also wrote scripts aiding in data collection and analysis and learned web app development to implement a new website for the company."
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**Ranch WiFi** (*Paso Robles, CA*)",
+               "content": [
+                  {
+                     "heading": "**Tech Support and IT**",
+                     "details": [
+                        "*Dec. 2019 - Jan. 2020* - Answered tech support calls and set up an internal company MediaWiki server as a central repository of company procedures and information. Also, I explored the various API's of the software that Ranch WiFi uses to find ways of programmatically improving processes, reports and infrastructure."
+                     ]
+                  }
+               ]
+            },
+            {
+               "heading": "**El Colibri Hotel and Spa** - Pacifica Hotels (*Cambria, CA*)",
+               "content": [
+                  {
+                     "heading": "**Guest Services Supervisor**",
+                     "details": [
+                        "*Apr. 2018 - Oct. 2019* - Addressed guest and employee concerns, inventory, staff scheduling, managed software for the hotel (Skywire PMS, Mindbody)."
+                     ]
+                  },
+                  {
+                     "heading": "**Guest Services Agent**",
+                     "details": [
+                        "*Oct. 2017 - Apr. 2018* - Operated the front desk and bar area as well as coordinated with housekeeping staff to ensure rooms are ready for incoming guests."
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
          "heading": "**Education**",
          "content": [
             {
@@ -55,61 +110,6 @@
                      "details": [
                         "* CPE 349: Design and Analysis of Algorithms",
                         "* CPE 315: Computer Architecture"
-                     ]
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "heading": "**Experience**",
-         "content": [
-            {
-               "heading": "**Ultrex (Flex TG)** (*San Luis Obispo, CA*)",
-               "content": [
-                  {
-                     "heading": "**Copier Service Technician**",
-                     "details": [
-                        "*Oct. 2021 - Present* - Maintenance, troubleshooting and repair of copiers (Konica Minolta, Sharp, Canon, etc.)"
-                     ]
-                  }
-               ]
-            },
-            {
-               "heading": "**Eagle Medical** (*Paso Robles, CA*)",
-               "content": [
-                  {
-                     "heading": "**Engineering Technician I**",
-                     "details": [
-                        "*Feb. 2020 - Sep. 2021* - Under minimal supervision, performed routine sterilizer maintenance including: electro-mechanical trouble-shooting, component/sub-assembly rebuild or refurbishment, preventative maintenance and complete sterilizer overhaul. Additionally, designed and performed unique experiments as requested, evaluating and confirming test data accuracy and generating formal verbal and/or written reports. Also wrote scripts aiding in data collection and analysis and learned web app development to implement a new website for the company."
-                     ]
-                  }
-               ]
-            },
-            {
-               "heading": "**Ranch WiFi** (*Paso Robles, CA*)",
-               "content": [
-                  {
-                     "heading": "**Tech Support and IT**",
-                     "details": [
-                        "*Dec. 2019 - Jan. 2020* - Answered tech support calls and set up an internal company MediaWiki server as a central repository of company procedures and information. Also, I explored the various API's of the software that Ranch WiFi uses to find ways of programmatically improving processes, reports and infrastructure."
-                     ]
-                  }
-               ]
-            },
-            {
-               "heading": "**El Colibri Hotel and Spa** - Pacifica Hotels (*Cambria, CA*)",
-               "content": [
-                  {
-                     "heading": "**Guest Services Supervisor**",
-                     "details": [
-                        "*Apr. 2018 - Oct. 2019* - Addressed guest and employee concerns, inventory, staff scheduling, managed software for the hotel (Skywire PMS, Mindbody)."
-                     ]
-                  },
-                  {
-                     "heading": "**Guest Services Agent**",
-                     "details": [
-                        "*Oct. 2017 - Apr. 2018* - Operated the front desk and bar area as well as coordinated with housekeeping staff to ensure rooms are ready for incoming guests."
                      ]
                   }
                ]
