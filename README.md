@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Coulter</h1>
 <h3 align="center">I am a prospective Software Developer or Data Engineer with experience in web application development, data analysis and machine learning.</h3>
 
-**<p align="center">View my [resume here](https://charlescoult.com/resume).</p>**
-
-**<p align="center">Check out my Machine Learning Engineering Bootcamp capstone project at [ml.charlescoult.com](https://ml.charlescoult.com)**
-
-**<p align="center">Contact me via my [contact page](https://charlescoult.com/contact) or via [LinkedIn](https://www.linkedin.com/in/charlescoult).</p>**
-
-**<p align="center">[Learn about how my website is setup using AWS and React](https://charlescoult.com/sites/meta)</p>**
+<p align="center">**Check out my Machine Learning Engineering Bootcamp capstone project at [github.com/charlescoult/ic](https://www.github.com/charlescoult/ic)
 
 ## Languages and Tools
 * Languages: Java, C, Python, JS
